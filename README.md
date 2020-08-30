@@ -1,1 +1,1 @@
-# This is the Github Assignment
+# This is the Github Assignment for C.O.D.E.
